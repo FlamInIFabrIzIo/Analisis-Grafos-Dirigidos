@@ -23,7 +23,7 @@ pip install networkx matplotlib
 ```
 
 <p align="center">
-  <img src="Analisis-Grafos-Dirigidos\image\grafo-proy.png" alt="Visualización del GRAFO_EJEMPLO_1" />
+  <img src="\image\grafo-proy.png" alt="Visualización del GRAFO_EJEMPLO_1" />
 </p>
 
 
